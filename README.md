@@ -1,5 +1,5 @@
 # compilers
-Honours Compilers Module 
+Honours Compilers Project 
 
 Small Compiler Project written in Python using PLY
 
